@@ -11,3 +11,8 @@ dependencies:
   - geopandas
   - netcdf4
   - jupyterlab
+  - h5netcdf
+  - scipy
+  - numpy
+  - geopandas
+  - requests
