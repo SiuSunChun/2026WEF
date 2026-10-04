@@ -16,3 +16,6 @@ dependencies:
   - numpy
   - geopandas
   - requests
+  - pandas
+  - requests
+  - flox
