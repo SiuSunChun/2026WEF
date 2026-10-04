@@ -1,0 +1,13 @@
+name: binder-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - xarray
+  - matplotlib
+  - cartopy
+  - numpy
+  - geopandas
+  - netcdf4
+  - jupyterlab
